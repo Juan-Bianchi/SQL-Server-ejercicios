@@ -138,7 +138,3 @@ BEGIN TRANSACTION;
 	SELECT * FROM Departamento;
 	--Se queda esperando a que T2 finalice…
 COMMIT;				
-
-
-
-
